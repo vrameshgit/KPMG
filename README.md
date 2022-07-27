@@ -22,13 +22,6 @@ The code allows for a particular data key to be retrieved individually
 
  
 
-Hints
-
-·       Aws Documentation
-
-·       Azure Documentation
-
-·       Google Documentation
 
  
 
